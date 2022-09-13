@@ -22,7 +22,7 @@ Python, HTML
 
 ## Libraries Used: 
 
-Numpy, Pandas, Tensorflow, Keras, CNN, RNN Matplotlib
+Numpy, Pandas, Tensorflow, Keras, CNN, RNN
 
 ## Steps covered:
 
